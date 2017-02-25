@@ -18,15 +18,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Strip unicode -->
   <!-- Settings item description for SMS and MMS Validity period -->
-  <string name="sms_validity_period_one_hour">1 horo</string>
-  <string name="sms_validity_period_six_hours">6 horoj</string>
-  <string name="sms_validity_period_twelve_hours">12 horoj</string>
-  <string name="sms_validity_period_one_day">1 tago</string>
-  <string name="mms_validity_period_two_days">2 tagoj</string>
-  <string name="mms_validity_period_one_week">1 semajno</string>
   <!-- Item Descriptions for MMS sending Priority -->
   <!-- Storage specific Settings -->
-  <string name="no">Nuligi</string>
   <!-- Swipe to delete conversation -->
   <!-- QUICKMESSAGE SUPPORT -->
   <!-- Preferences -->
@@ -34,7 +27,6 @@
   <!-- Hint text in message body field when keyboard is exposed -->
   <!-- QM Toast -->
   <!-- QM - Quick reply -->
-  <string name="send">Sendi</string>
   <!-- Show emoticons -->
   <!-- Copy message to sim -->
   <!-- Settings item for entering SIM card message screen -->
@@ -49,7 +41,6 @@
   <!-- Title of screen displaying messages on SIM card -->
   <!-- Message that appears on screen while SIM card messages are retrieved -->
   <!-- Delete button title -->
-  <string name="delete">Forigi</string>
   <!-- Context menu item on an individual message for forwarding it to another recipient -->
   <!-- Menu title to copy a selected message from the SIM card to the phone. -->
   <!-- Menu title to copy a selected message from the SIM card to the phone. -->
